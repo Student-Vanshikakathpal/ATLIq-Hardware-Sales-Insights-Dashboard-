@@ -1,0 +1,2 @@
+# ATLIq-Hardware-Sales-Insights-Dashboard-
+ WITH USING SQL AND POWER BI , I HAVE CREATED THIS DASHBOARD 
